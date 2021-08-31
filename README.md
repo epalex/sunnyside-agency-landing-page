@@ -2,8 +2,8 @@
 
 ## Links
 
-- Solution URL: 
-- Live Site URL: 
+- Solution URL: https://github.com/epalex/sunnyside-agency-landing-page
+- Live Site URL: https://epalex.github.io/sunnyside-agency-landing-page/
 
 ## Built with
 
@@ -18,4 +18,4 @@
 
 ## Open issues
 
-- 
+-

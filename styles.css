@@ -1,0 +1,23 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Barlow", sans-serif;
+  /* font-family: "Fraunces", serif; */
+  background-color: bisque;
+}
+
+h1 {
+  color: white;
+  font-family: "Fraunces", serif;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 40px;
+  line-height: 49px;
+  letter-spacing: 6.25px;
+  margin-top: 88px;
+  margin-bottom: 52px;
+}
