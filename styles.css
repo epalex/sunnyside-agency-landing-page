@@ -7,7 +7,20 @@
 body {
   font-family: "Barlow", sans-serif;
   /* font-family: "Fraunces", serif; */
-  background-color: bisque;
+}
+
+header {
+  background-image: url(./images/mobile/image-header.jpg);
+  background-size: cover;
+  min-height: 540px;
+  padding-top: 32px;
+}
+
+.header-bar-images {
+  display: flex;
+  justify-content: space-between;
+  padding-left: 24px;
+  padding-right: 24px;
 }
 
 h1 {
@@ -20,4 +33,31 @@ h1 {
   letter-spacing: 6.25px;
   margin-top: 88px;
   margin-bottom: 52px;
+  text-align: center;
+}
+
+.arrow {
+  display: flex;
+  justify-content: center;
+}
+
+
+
+footer a {
+  text-decoration: none;
+  color: orangered;
+}
+
+.paminos {
+  color: orangered;
+  font-weight: 600;
+}
+
+footer {
+  font-size: 13px;
+  text-align: center;
+  font-weight: 500;
+  color: darkgrey;
+  margin-top: 64px;
+  padding-bottom: 16px;
 }
