@@ -18,4 +18,5 @@
 
 ## Open issues
 
--
+- mobile view, hamburger menu
+- learn more, underline effect....

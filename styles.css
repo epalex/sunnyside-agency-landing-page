@@ -41,7 +41,56 @@ h1 {
   justify-content: center;
 }
 
+.image-transform {
+  width: 100%;
+  height: 100%;
+}
 
+.transform-brand {
+  margin-top: 64px;
+  margin-bottom: 64px;
+}
+
+.transform-brand h2 {
+  color: #24303e;
+  font-family: "Fraunces", serif;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 32px;
+  line-height: 39px;
+  letter-spacing: -0.23px;
+  margin: 0 auto;
+  max-width: 80%;
+  margin-bottom: 24px;
+  text-align: center;
+}
+
+.transform-brand p {
+  color: #808397;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 30px;
+  letter-spacing: -0.13px;
+  margin-bottom: 32px;
+  margin: 0 auto;
+  max-width: 90%;
+  text-align: center;
+}
+
+.transform-brand a {
+  display: block;
+  color: #24303e;
+  font-family: "Fraunces", serif;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 15px;
+  line-height: 25px;
+  letter-spacing: 1px;
+  text-align: center;
+  margin-top: 32px;
+  text-decoration: none;
+}
 
 footer a {
   text-decoration: none;
